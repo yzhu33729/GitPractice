@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Vim
+*.swp
+*.swo
+~* 
+
+# VS Code
+.vscode/
